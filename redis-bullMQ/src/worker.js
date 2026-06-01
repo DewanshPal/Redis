@@ -1,5 +1,5 @@
 import { Worker } from "bullmq";
-import { connection } from "./queue";
+import { connection } from "./queue.js";
 
 
 //consumer 

@@ -1,6 +1,6 @@
 //producer
 import express from 'express';
-import emailQueue from './queue';
+import emailQueue from './queue.js';
 
 
 const app = express();

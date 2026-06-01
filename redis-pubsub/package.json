@@ -5,7 +5,7 @@
     "type": "module",
 
     "scripts": {
-        "dev": "node src/index.js"
+        "dev": "node src/api.js"
     },
     "dependencies": {
         "ioredis": "^5.11.0",
